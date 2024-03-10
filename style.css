@@ -177,8 +177,6 @@ section .title::after{
     filter: brightness(90%);
 }
 
-  
-/* home section styling */
 .home{
     display: flex;
     background: url("images/home-bg.webp") no-repeat center;
@@ -189,6 +187,7 @@ section .title::after{
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
+
 .home .max-width{
     margin: auto 0 auto 30px;
 }
