@@ -83,7 +83,6 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
 .navbar{
     position: fixed;
     width: 100%;
@@ -92,15 +91,18 @@ section .title::after{
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
+
 .navbar.sticky{
     padding: 15px 0;
     background: crimson;
 }
+
 .navbar .max-width{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
 .navbar .logo a{
     color: #fff;
     font-size: 35px;
