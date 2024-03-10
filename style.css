@@ -117,10 +117,12 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
+
 .navbar .menu li{
     list-style: none;
     display: inline-block;
 }
+
 .navbar .menu li a{
     display: block;
     color: #fff;
@@ -129,6 +131,7 @@ section .title::after{
     margin-left: 25px;
     transition: color 0.3s ease;
 }
+
 .navbar .menu li a:hover{
     color: crimson;
 }
