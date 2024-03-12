@@ -315,6 +315,7 @@ section .title::after{
 .services .serv-content .card .box{
     transition: all 0.3s ease;
 }
+
 .services .serv-content .card:hover .box{
     transform: scale(1.05);
 }
