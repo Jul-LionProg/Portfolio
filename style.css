@@ -245,6 +245,7 @@ section .title::after{
     object-fit: cover;
     border-radius: 6px;
 }
+
 .about .about-content .right{
     width: 55%;
 }
