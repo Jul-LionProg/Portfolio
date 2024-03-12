@@ -307,6 +307,7 @@ section .title::after{
     cursor: pointer;
     transition: all 0.3s ease;
 }
+
 .services .serv-content .card:hover{
     background: crimson;
 }
