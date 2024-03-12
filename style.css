@@ -291,6 +291,7 @@ section .title::after{
 .teams .title::before{
     background: #fff;
 }
+
 .services .title::after,
 .teams .title::after{
     background: #111;
