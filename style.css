@@ -403,6 +403,7 @@ section .title::after{
     top: 0;
     background: crimson;
 }
+
 .skills-content .right .html::before{
     width: 90%;
 }
