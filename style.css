@@ -353,6 +353,7 @@ section .title::after{
 .skills .skills-content .left p{
     text-align: justify;
 }
+
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
