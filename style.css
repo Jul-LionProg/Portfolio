@@ -439,6 +439,7 @@ section .title::after{
 .teams .carousel .card:hover{
     background: crimson;
 }
+
 .teams .carousel .card .box{
     display: flex;
     flex-direction: column;
