@@ -51,7 +51,7 @@ $(document).ready(function(){
                 items: 1,
                 nav: false
             },
-            600:{
+            601:{
                 items: 2,
                 nav: false
             },
